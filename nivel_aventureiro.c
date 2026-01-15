@@ -101,7 +101,7 @@ switch (opcao) {
 
         if (Densidade1 < Densidade2)
             printf ("Vencedora: %s\n", Cidade1);
-        else if (Densidade2 > Densidade1)
+        else if (Densidade2 < Densidade1)
             printf ("Vencedora: %s\n", Cidade2);
         else
             printf ("Empate!\n");
