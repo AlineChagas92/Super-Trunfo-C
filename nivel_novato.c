@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 // Desafio Super Trunfo
-// Tema 1 - Cadastro de Cartas
+// Cadastro de Cartas
 // Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
 
 int main (){
